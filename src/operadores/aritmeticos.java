@@ -1,6 +1,6 @@
 package operadores;
 
-public class aritméticos {
+public class aritmeticos {
     public static void main(String[] args) {
         // + - / *
         int numero01 = 10;
