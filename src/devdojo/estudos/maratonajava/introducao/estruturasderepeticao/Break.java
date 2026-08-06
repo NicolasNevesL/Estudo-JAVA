@@ -1,4 +1,4 @@
-package estruturasderepeticao;
+package devdojo.estudos.maratonajava.introducao.estruturasderepeticao;
 
 public class Break {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package condicionais;
+package devdojo.estudos.maratonajava.introducao.condicionais;
 
 public class OperadorTernario {
     public static void main(String[] args) {

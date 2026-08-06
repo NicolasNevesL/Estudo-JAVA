@@ -1,4 +1,4 @@
-package estruturasderepeticao;
+package devdojo.estudos.maratonajava.introducao.estruturasderepeticao;
 
 public class Continue {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package condicionais;
+package devdojo.estudos.maratonajava.introducao.condicionais;
 
 public class ElseIf {
     public static void main(String[] args) {

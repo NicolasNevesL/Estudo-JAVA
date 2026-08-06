@@ -1,4 +1,4 @@
-package arrays;
+package devdojo.estudos.maratonajava.introducao.arrays;
 
 public class ArraysPT1 {
     public static void main(String[] args) {

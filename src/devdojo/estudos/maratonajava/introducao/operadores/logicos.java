@@ -1,4 +1,4 @@
-package operadores;
+package devdojo.estudos.maratonajava.introducao.operadores;
 
 public class logicos {
     public static void main(String[] args) {
